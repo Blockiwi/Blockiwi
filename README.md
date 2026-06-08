@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blockiwi
+- 👋 Hi, 
 - 👀 I’m interested in a distributed self sovereign world
 - 🌱 I’m currently learning how to run a lightning node
 - 💞️ I’m looking to collaborate on lightning node operations
@@ -8,3 +8,4 @@
 Blockiwi/Blockiwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Update! I am now interested in AI and building agents and what not
